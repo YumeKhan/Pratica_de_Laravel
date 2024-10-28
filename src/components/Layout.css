@@ -1,0 +1,8 @@
+/* src/components/Layout.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container-fluid {
+    padding: 20px;
+}

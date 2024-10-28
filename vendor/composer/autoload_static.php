@@ -451,8 +451,8 @@ class ComposerStaticInit5b781d3d3981558b7b090f5a3e83720e
         ),
         'Fruitcake\\Cors\\' => 
         array (
-            0 => __DIR__ . '/..' . '/fruitcake/php-cors/src',
-            1 => __DIR__ . '/..' . '/fruitcake/laravel-cors/src',
+            0 => __DIR__ . '/..' . '/fruitcake/laravel-cors/src',
+            1 => __DIR__ . '/..' . '/fruitcake/php-cors/src',
         ),
         'Faker\\' => 
         array (
@@ -518,6 +518,7 @@ class ComposerStaticInit5b781d3d3981558b7b090f5a3e83720e
         'App\\Http\\Controllers\\Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Controller.php',
         'App\\Http\\Controllers\\GeneroController' => __DIR__ . '/../..' . '/app/Http/Controllers/GeneroController.php',
         'App\\Http\\Controllers\\HomeController' => __DIR__ . '/../..' . '/app/Http/Controllers/HomeController.php',
+        'App\\Http\\Controllers\\LivroController' => __DIR__ . '/../..' . '/app/Http/Controllers/LivroController.php',
         'App\\Http\\Controllers\\LivrosController' => __DIR__ . '/../..' . '/app/Http/Controllers/LivrosController.php',
         'App\\Http\\Controllers\\PessoaController' => __DIR__ . '/../..' . '/app/Http/Controllers/PessoaController.php',
         'App\\Http\\Controllers\\ReservaController' => __DIR__ . '/../..' . '/app/Http/Controllers/ReservaController.php',
@@ -531,6 +532,7 @@ class ComposerStaticInit5b781d3d3981558b7b090f5a3e83720e
         'App\\Http\\Middleware\\TrustProxies' => __DIR__ . '/../..' . '/app/Http/Middleware/TrustProxies.php',
         'App\\Http\\Middleware\\VerifyCsrfToken' => __DIR__ . '/../..' . '/app/Http/Middleware/VerifyCsrfToken.php',
         'App\\Models\\Genero' => __DIR__ . '/../..' . '/app/Models/Genero.php',
+        'App\\Models\\Livro' => __DIR__ . '/../..' . '/app/Models/Livro.php',
         'App\\Models\\Livros' => __DIR__ . '/../..' . '/app/Models/Livros.php',
         'App\\Models\\Pessoa' => __DIR__ . '/../..' . '/app/Models/Pessoa.php',
         'App\\Models\\Reserva' => __DIR__ . '/../..' . '/app/Models/Reserva.php',

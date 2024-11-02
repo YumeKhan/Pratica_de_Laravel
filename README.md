@@ -13,7 +13,7 @@ Para iniciar o projeto, utilize o seguinte comando no terminal do Visual Studio 
 
 bash
 Copiar código
-php artisan serve
+'php artisan serve' sem aspa.
 Após a execução, o terminal exibirá o endereço localhost onde a aplicação estará disponível.
 
 # Estrutura do Template
